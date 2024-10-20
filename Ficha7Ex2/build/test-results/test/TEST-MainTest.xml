@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2024-10-20T10:00:47" hostname="LOLAGAMES155" time="0.088">
+  <properties/>
+  <testcase name="[1] 23" classname="MainTest" time="0.04"/>
+  <testcase name="[2] 46" classname="MainTest" time="0.002"/>
+  <testcase name="[3] 115" classname="MainTest" time="0.001"/>
+  <testcase name="[4] 184" classname="MainTest" time="0.0"/>
+  <testcase name="[5] 207" classname="MainTest" time="0.001"/>
+  <testcase name="[6] 230" classname="MainTest" time="0.001"/>
+  <testcase name="[1] 25, 5" classname="MainTest" time="0.004"/>
+  <testcase name="[2] 100, 10" classname="MainTest" time="0.0"/>
+  <testcase name="[3] 49, 7" classname="MainTest" time="0.001"/>
+  <testcase name="[4] 36, 6" classname="MainTest" time="0.0"/>
+  <testcase name="[5] 81, 9" classname="MainTest" time="0.0"/>
+  <testcase name="[6] 144, 12" classname="MainTest" time="0.0"/>
+  <testcase name="[1] 32" classname="MainTest" time="0.001"/>
+  <testcase name="[2] 64" classname="MainTest" time="0.001"/>
+  <testcase name="[3] 2" classname="MainTest" time="0.0"/>
+  <testcase name="[4] 20" classname="MainTest" time="0.001"/>
+  <testcase name="[5] 30" classname="MainTest" time="0.001"/>
+  <testcase name="[6] 26" classname="MainTest" time="0.001"/>
+  <testcase name="[1] 3" classname="MainTest" time="0.001"/>
+  <testcase name="[2] 23" classname="MainTest" time="0.001"/>
+  <testcase name="[3] 311" classname="MainTest" time="0.001"/>
+  <testcase name="[4] 487" classname="MainTest" time="0.001"/>
+  <testcase name="[5] 653" classname="MainTest" time="0.0"/>
+  <testcase name="[6] 947" classname="MainTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
